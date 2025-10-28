@@ -35,6 +35,8 @@ The game features an interactive GUI, smooth animations, and seamless transition
 - **Start** button to begin the game.  
 - **Quit** button to exit the application.
 
+<img width="1316" height="995" alt="image" src="https://github.com/user-attachments/assets/8b9566f3-8c0d-46cc-a8f6-1f9d4a8c74d6" />
+
 ---
 
 ### 🎮 Game Screen
@@ -46,6 +48,8 @@ The game features an interactive GUI, smooth animations, and seamless transition
   - Each food item increases the snake’s length and adds to the player’s score.  
 - **Restart round:** Press `R`  
 - **Return to main menu:** Press `Backspace`  
+
+<img width="1191" height="890" alt="image" src="https://github.com/user-attachments/assets/e13d008f-46f7-41ff-97ce-8439fa8efae1" />
 
 ---
 
@@ -67,7 +71,9 @@ The game features an interactive GUI, smooth animations, and seamless transition
 ### 🏆 End Screen
 - Displays the **winner’s name**.  
 - Offers options to **restart** the game or **quit**.
-- A file is also created (Winners.txt) which contains the winner's names.  
+- A file is also created (Winners.txt) which contains the winner's names.
+
+  <img width="1314" height="987" alt="image" src="https://github.com/user-attachments/assets/467a7cf9-415d-43f7-9689-419e173aeb54" />
 
 ---
 
