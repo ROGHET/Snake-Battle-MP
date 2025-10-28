@@ -11,26 +11,23 @@ This mini-project demonstrates Java GUI design, event-driven programming, and ob
 ## 🎮 Game Preview
 
 <p align="center">
+  <b>🎬 Intro Screen</b><br>
   <img src="https://github.com/user-attachments/assets/8b9566f3-8c0d-46cc-a8f6-1f9d4a8c74d6" alt="Intro Screen" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
-  <br>
-  <em>✨ Intro Screen - Player setup and game start menu</em>
 </p>
 
 <p align="center">
+  <b>🎮 Game Screen</b><br>
   <img src="https://github.com/user-attachments/assets/e13d008f-46f7-41ff-97ce-8439fa8efae1" alt="Gameplay" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
-  <br>
-  <em>🐍 Gameplay - Real-time multiplayer snake action</em>
 </p>
 
 <p align="center">
+  <b>🏁 End Screen</b><br>
   <img src="https://github.com/user-attachments/assets/467a7cf9-415d-43f7-9689-419e173aeb54" alt="End Screen" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
-  <br>
-  <em>🏁 End Screen - Final scores and match summary</em>
 </p>
 
 ---
 
-## 🎯 Why we made this game
+## ✨ Problem Statement
 Traditional Snake games are single-player and focus only on survival by avoiding collisions.  
 However, they lack competitive interaction and multiplayer engagement.  
 
