@@ -26,7 +26,7 @@ The game features an interactive GUI, smooth animations, and seamless transition
 
 ---
 
-## 🧩 Planned Functionality
+## 🧩 Features
 
 ### 🏁 Intro Screen
 - Player name input fields for both players.  
@@ -122,6 +122,9 @@ SnakeBattle/
 ├── assets/                      # (optional) images, icons, sounds
 ├── README.md
 └── LICENSE
+
+
+
 
 ---
 
