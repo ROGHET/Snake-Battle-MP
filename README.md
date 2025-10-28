@@ -117,7 +117,8 @@ src/
     Player.java              → Player data (name, score, bites)  
     IntroScreen.java         → Menu and setup screen  
     EndScreen.java           → Game over screen  
-    Utils.java               → Helper utilities  
+    Utils.java               → Helper utilities 
+    FileHandler.java         → Handles reading/writing scores to file
 
 assets/                      → (optional) images, icons, sounds  
 README.md  
