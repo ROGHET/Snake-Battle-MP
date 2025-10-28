@@ -123,9 +123,6 @@ SnakeBattle/
 ├── README.md
 └── LICENSE
 
-
-
-
 ---
 
 ## 👨‍💻 Authors
