@@ -108,20 +108,21 @@ java MultiplayerSnakeBattle
 
 SnakeBattle/
 │
-├── src/
-│   ├── Main.java                # Entry point
-│   ├── GameFrame.java           # Main game window (JFrame)
-│   ├── GamePanel.java           # Handles rendering, logic, collisions
-│   ├── Snake.java               # Snake object class
-│   ├── Food.java                # Food generation logic
-│   ├── Player.java              # Player data (name, score, bites)
-│   ├── IntroScreen.java         # Menu and setup screen
-│   ├── EndScreen.java           # Game over screen
-│   └── Utils.java               # Helper utilities
-│
-├── assets/                      # (optional) images, icons, sounds
-├── README.md
-└── LICENSE
+src/
+    Main.java                → Entry point  
+    GameFrame.java           → Main game window (JFrame)  
+    GamePanel.java           → Handles rendering, logic, collisions  
+    Snake.java               → Snake object class  
+    Food.java                → Food generation logic  
+    Player.java              → Player data (name, score, bites)  
+    IntroScreen.java         → Menu and setup screen  
+    EndScreen.java           → Game over screen  
+    Utils.java               → Helper utilities  
+
+assets/                      → (optional) images, icons, sounds  
+README.md  
+LICENSE
+
 
 ---
 
