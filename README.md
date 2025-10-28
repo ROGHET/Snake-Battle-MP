@@ -81,6 +81,7 @@ The game features an interactive GUI, smooth animations, and seamless transition
   - JFrame, JPanel, JButton, JLabel Components  
 - **Multithreading Concepts** (for timers and game loop)
 - **Collision Detection and Game Logic**
+- **File handling**
 
 ---
 
