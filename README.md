@@ -8,7 +8,29 @@ This mini-project demonstrates Java GUI design, event-driven programming, and ob
 
 ---
 
-## 🎯 Problem Statement
+## 🎮 Game Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b9566f3-8c0d-46cc-a8f6-1f9d4a8c74d6" alt="Intro Screen" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
+  <br>
+  <em>✨ Intro Screen — Player setup and game start menu</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e13d008f-46f7-41ff-97ce-8439fa8efae1" alt="Gameplay" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
+  <br>
+  <em>🐍 Gameplay — Real-time multiplayer snake action</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/467a7cf9-415d-43f7-9689-419e173aeb54" alt="End Screen" width="80%" style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin:20px 0;" />
+  <br>
+  <em>🏁 End Screen — Final scores and match summary</em>
+</p>
+
+---
+
+## 🎯 Why we made this game
 Traditional Snake games are single-player and focus only on survival by avoiding collisions.  
 However, they lack competitive interaction and multiplayer engagement.  
 
@@ -17,7 +39,7 @@ The game features an interactive GUI, smooth animations, and seamless transition
 
 ---
 
-## 🎯 Objectives
+## 🎯 Core Objectives with this project
 1. Design a GUI-based multiplayer Snake game using **Java Swing and AWT**.  
 2. Implement **event handling** for real-time keyboard inputs, button clicks, and timers.  
 3. Demonstrate **object-oriented concepts** — encapsulation, inheritance, classes, objects, and packages.  
@@ -35,8 +57,6 @@ The game features an interactive GUI, smooth animations, and seamless transition
 - **Start** button to begin the game.  
 - **Quit** button to exit the application.
 
-<img width="1316" height="995" alt="image" src="https://github.com/user-attachments/assets/8b9566f3-8c0d-46cc-a8f6-1f9d4a8c74d6" />
-
 ---
 
 ### 🎮 Game Screen
@@ -47,9 +67,7 @@ The game features an interactive GUI, smooth animations, and seamless transition
 - Randomly generated **food** appears on the board.  
   - Each food item increases the snake’s length and adds to the player’s score.  
 - **Restart round:** Press `R`  
-- **Return to main menu:** Press `Backspace`  
-
-<img width="1191" height="890" alt="image" src="https://github.com/user-attachments/assets/e13d008f-46f7-41ff-97ce-8439fa8efae1" />
+- **Return to main menu:** Press `Backspace`
 
 ---
 
@@ -72,9 +90,6 @@ The game features an interactive GUI, smooth animations, and seamless transition
 - Displays the **winner’s name**.  
 - Offers options to **restart** the game or **quit**.
 - A file is also created (Winners.txt) which contains the winner's names.
-
-  <img width="1314" height="987" alt="image" src="https://github.com/user-attachments/assets/467a7cf9-415d-43f7-9689-419e173aeb54" />
-
 ---
 
 ## 🧠 Concepts Demonstrated
