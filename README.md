@@ -118,9 +118,10 @@ The game features an interactive GUI, smooth animations, and seamless transition
    git clone https://github.com/ROGHET/SnakeBattle.git
    cd SnakeBattle
 2. **Compile and run**
-  javac MultiplayerSnakeBattle.java
-  java MultiplayerSnakeBattle
-
+ ```bash
+javac MultiplayerSnakeBattle.java
+java MultiplayerSnakeBattle
+```
 ---
 
 ## 📂 Project Structure
